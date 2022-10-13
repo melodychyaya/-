@@ -275,10 +275,6 @@ input {
 }
 
 /*=============== HOME ===============*/
-.home{
-  height: 100vh;
-}
-
 .home__img {
   position: absolute;
   top: 0;
